@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ultimate Precision Roulette Predictor",
+  "description": "An advanced roulette prediction tool that uses multiple evolving AI algorithms and D3.js visualization to forecast outcomes. The system learns from each spin, automatically adjusting algorithm weights based on performance to improve its accuracy over time, with all data stored locally in the browser.",
+  "requestFramePermissions": []
+}
